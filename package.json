@@ -1,4 +1,13 @@
 {
-"name": "@hnineiwinkyaw/test-package",
-"version": "1.0.0"
+  "name": "@hnineiwinkyaw/npm-package-test",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "none",
+  "repository": "hnineiwinkyaw/tiny",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "package",
+    "hnineiwinkyaw"
+  ]
 }
